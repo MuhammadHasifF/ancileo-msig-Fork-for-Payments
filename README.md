@@ -126,11 +126,7 @@ ancileo-msig/
 
 **💡 You are allowed to mock MCP to third party providers (example: Airlines Company)**
 
-In order to create the most **SEAMLESS** , **FLEXIBLE** and **Personalized** agent(s), take liberties & initiatives ! If needed, you are encourage to mock other services provider in order to enhances the capabilties of your agent(s)
-
-Example: Leveraging MCPs to connect with third party providers to retrieve user(s) information to make the whole process a personalized interaction with seamless integration aiming to
-- Provides compact, digestible information of the user(s) and their travel
-- Adapts to user preferences
+In order to crete the most SEAMLESS and FLEXIBLE agent(s), take liberties & inititives ! If needed, youa re encourage to mock other services provider in order to enhances the capabilties of your agent(s)
 
 -----------------
 
@@ -268,7 +264,7 @@ The `Taxonomy_Hackathon.json` file shows you the **target structure**:
 **⚠️ ATTENTION: QUOTATION AND PURCHASE API USAGE ⚠️**
 
 ***Quotation Step:***
-Use the API retrieve the offer, and as at the moment only one offer was output on the response without plan indication, you are allowed to inject in the response a mock of offers for the other policies product and plans processed in Block 1, then proceed with the comparison of policy to offer
+Use the API retrieve the offer, and as at the moment only one offer was output on the response, you are allowed to inject in the response a mock of offers for the other 2 policies processed in Block 1, then proceed with the comparison of policy to offer
 
 ----------------------------------------------------
 
@@ -321,7 +317,7 @@ Payments/
 **⚠️ ATTENTION: QUOTATION AND PURCHASE API USAGE ⚠️**
 
 ***Quotation Step:***
-Use the API retrieve the offer, and as at the moment only one offer was output on the response without plan indication, you are allowed to inject in the response a mock of offers for the other policies product and plans processed in Block 1, then proceed with the comparison of policy to offer
+Use the API retrieve the offer, and as at the moment only one offer was output on the response, you are allowed to inject in the response a mock of offers for the other 2 policies processed in Block 1, then proceed with the comparison of policy to offer
 
 ***Purchasing Step:***
 In the purchase part, use the main offer data provided on the previous Quotation response, no matter of the output of the Block  4 on the offered policies
